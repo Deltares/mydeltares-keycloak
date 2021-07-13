@@ -12,7 +12,7 @@
 
     <artifactId>deltares-extension-module</artifactId>
     <properties>
-        <keycloak.version>6.0.1</keycloak.version>
+        <keycloak.version>14.0.0</keycloak.version>
         <version.freemarker>2.3.23</version.freemarker>
     </properties>
     <dependencies>
